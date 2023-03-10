@@ -1,5 +1,7 @@
 # Redux homework
 
+This is a Bingo game, developed as a Redux homework during Evolution's 2023 TypeScript Bootcamp. The following README contains the assigned task instructions.
+
 Add logic to a [Bingo](https://en.wikipedia.org/wiki/Bingo_(American_version)) game.
 
 ## Game rules
